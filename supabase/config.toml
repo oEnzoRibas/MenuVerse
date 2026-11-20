@@ -1,0 +1,14 @@
+project_id = "menuverse"
+[api]
+port = 55431
+[db]
+port = 55432
+shadow_port = 55430
+major_version = 17
+[studio]
+enabled = false
+[db.seed]
+enabled = false
+[auth]
+site_url = "http://localhost:3000"
+enable_signup = false

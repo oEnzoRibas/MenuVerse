@@ -1,0 +1,52 @@
+{
+  "name": "menuverse",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Cardápio digital, pedidos e operação de cozinha.",
+  "author": "oEnzoRibas (https://github.com/oEnzoRibas)",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "dependencies": {
+    "@hookform/resolvers": "latest",
+    "@supabase/ssr": "latest",
+    "@supabase/supabase-js": "latest",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "latest",
+    "motion": "^12",
+    "next": "^16",
+    "radix-ui": "^1",
+    "react": "^19",
+    "react-dom": "^19",
+    "react-hook-form": "^7",
+    "tailwind-merge": "^3",
+    "zod": "^4",
+    "zustand": "^5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^16",
+    "prettier": "^3",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "vitest": "^4",
+    "@electric-sql/pglite": "^0.4"
+  }
+}
