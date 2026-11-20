@@ -27,4 +27,4 @@ Fotografias do Unsplash distribuídas sob a [licença Unsplash](https://unsplash
 | soda.webp    | [Refrigerante](https://images.unsplash.com/photo-1622483767028-3f66f32aef97)       |
 | brownie.webp | [Brownie](https://images.unsplash.com/photo-1606313564200-e75d5e30476c)            |
 
-A família tipográfica [Manrope](https://fonts.google.com/specimen/Manrope) é distribuída com a [SIL Open Font License](../public/fonts/OFL-Manrope.txt). Ícones de interface do projeto [Lucide](https://lucide.dev/license). O botão do sistema de design adapta o componente [Button do shadcn/ui](https://ui.shadcn.com/docs/components/radix/button).
+A família tipográfica [Manrope](https://fonts.google.com/specimen/Manrope) é distribuída com a [SIL Open Font License](../public/fonts/OFL-Manrope.txt). Ícones de interface do projeto [Lucide](https://lucide.dev/license). O botão do sistema de design inclui uma adaptação sob a [licença MIT de shadcn](licencas/shadcn-ui.txt) do componente [Button do shadcn/ui](https://ui.shadcn.com/docs/components/radix/button).

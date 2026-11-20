@@ -1,0 +1,22 @@
+name: Relatar falha
+description: Informe um problema funcional no cardápio, no painel ou na cozinha.
+labels: [bug]
+body:
+  - type: textarea
+    id: steps
+    attributes:
+      label: Como reproduzir
+      description: Indique a tela e os passos usando dados fictícios.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Resultado observado e resultado esperado
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Ambiente
+      placeholder: Versão ou commit, navegador e dispositivo

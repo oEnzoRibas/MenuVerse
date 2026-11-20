@@ -1,0 +1,16 @@
+name: Sugerir melhoria
+description: Proponha uma melhoria para quem usa ou mantém o MenuVerse.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Qual problema a melhoria resolveria?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Como você espera que funcione?
+    validations:
+      required: true

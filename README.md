@@ -50,8 +50,12 @@ Vitest cobre preços, regras de personalização, permissões e transações SQL
 
 Consulte o [guia de provisionamento](docs/deploy.md), a [arquitetura e modelagem](docs/arquitetura.md) e os [contratos HTTP](docs/api.md). O checkout registra um pedido sem pagamento integrado.
 
+## Comunidade e versões
+
+Consulte as [releases](https://github.com/oEnzoRibas/MenuVerse/releases) e o [histórico de mudanças](CHANGELOG.md). Para colaborar, leia o [guia de contribuição](CONTRIBUTING.md) e o [código de conduta](CODE_OF_CONDUCT.md). Vulnerabilidades podem ser comunicadas pelo canal indicado na [política de segurança](SECURITY.md).
+
 ## Créditos
 
 Developed by [oEnzoRibas](https://github.com/oEnzoRibas).
 
-As fotografias gastronômicas são do Unsplash e os arquivos de origem estão em [Demonstração e créditos de mídia](docs/midia.md). Veja a proposta de licença do código em [LICENSE](LICENSE).
+As fotografias gastronômicas são do Unsplash e os arquivos de origem estão em [Demonstração e créditos de mídia](docs/midia.md). O código do MenuVerse é distribuído sob a [licença MIT](LICENSE), com copyright de oEnzoRibas. Os recursos de terceiros seguem as licenças indicadas nos créditos.
