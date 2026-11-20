@@ -2,6 +2,7 @@
   "name": "menuverse",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "description": "Cardápio digital, pedidos e operação de cozinha.",
   "author": "oEnzoRibas (https://github.com/oEnzoRibas)",
   "engines": {
